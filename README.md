@@ -65,3 +65,7 @@ cd movie-browser-app
   Second Terminal
 
 - npm run android
+
+
+## deployment with apk
+   .\gradlew.bat assembleRelease
